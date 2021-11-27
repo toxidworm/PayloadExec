@@ -7,4 +7,4 @@
 * Silent execution
 
 ## Buy me a coffee!
-https://qiwi.com/TOXIDWORM
+https://qiwi.com/n/TOXIDWORM
