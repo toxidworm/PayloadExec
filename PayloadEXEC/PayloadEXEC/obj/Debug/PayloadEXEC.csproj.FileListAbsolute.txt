@@ -1,0 +1,7 @@
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\bin\Debug\PayloadEXEC.exe.config
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\bin\Debug\PayloadEXEC.exe
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\bin\Debug\PayloadEXEC.pdb
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\obj\Debug\PayloadEXEC.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\obj\Debug\PayloadEXEC.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\obj\Debug\PayloadEXEC.exe
+C:\Users\Win10\source\repos\PayloadEXEC\PayloadEXEC\obj\Debug\PayloadEXEC.pdb
